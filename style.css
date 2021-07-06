@@ -373,6 +373,26 @@ p {
 	color: white;
 }
 
+#projects .project-info .cta{
+	color: black;
+	margin-bottom: 5px;
+	padding: 10px 3px;
+	font-size: 1.5rem;
+	background-color: white;
+	border: 0px;
+
+}
+
+#projects .project-info2 .cta{
+	color: black;
+	margin-bottom: 5px;
+	padding: 10px 3px;
+	font-size: 1.5rem;
+	background-color: white;
+	border: 0px;
+
+}
+
 #projects .project-info2 {
 	padding: 30px;
 	flex-basis: 50%;
