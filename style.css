@@ -8,10 +8,17 @@ html {
 	font-size: 10px;
 	font-family: 'Montserrat', sans-serif;
 	scroll-behavior: smooth;
+	scroll-snap-type: y proximity;
 }
 a {
 	text-decoration: none;
 }
+
+
+section[scroll-snap] {
+	scroll-snap-align: start;
+}
+
 .container {
 	min-height: 100vh;
 	width: 100%;
