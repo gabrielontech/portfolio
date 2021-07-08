@@ -437,6 +437,11 @@ p {
 #projects .project-info p {
 	color: white;
 }
+
+#projects .project-info p a{
+	color: white;
+	font-weight: bold;
+}
 #projects .project-info1 p {
 	color: white;
 }
